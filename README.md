@@ -1,2 +1,2 @@
 # sempliShop
-sempli shop configuration and base code
+sempli shop configuration and base code - Development space
