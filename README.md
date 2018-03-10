@@ -1,2 +1,2 @@
 # sempliShop
-sempli shop configuration and code base
+sempli shop configuration and base code
