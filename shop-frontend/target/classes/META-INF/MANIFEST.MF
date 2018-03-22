@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: shop-frontend
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: ANDRES
+Implementation-Vendor-Id: com.sempli
+Build-Jdk: 1.8.0_101
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/shop/shop-frontend
+Created-By: Maven Integration for Eclipse
+

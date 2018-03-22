@@ -1,0 +1,20 @@
+name,description,quantity,inStock
+"Fundamentals of Wavelets","Book of signal_processing",228,TRUE
+"Data Smart","Book of data_science",235,TRUE
+"God Created the Integers","Book of mathematics",197,TRUE
+"Superfreakonomics","Book of economics",179,TRUE
+"Orientalism","Book of history",197,TRUE
+"Nature of Statistical Learning Theory. The","Book of data_science",230,TRUE
+"Integration of the Indian States","Book of history",217,TRUE
+"Drunkards Walk. The","Book of science",197,TRUE
+"Image Processing and Mathematical Morphology","Book of signal_processing",241,TRUE
+"How to Think Like Sherlock Holmes","Book of psychology",240,TRUE
+"Data Scientists at Work","Book of data_science",230,TRUE
+"Slaughterhouse Five","Book of fiction",198,TRUE
+"Birth of a Theorem","Book of mathematics",234,TRUE
+"Structure and Interpretation of Computer Programs","Book of computer_science",240,TRUE
+"Age of Wrath. The","Book of history",238,TRUE
+"Trial. The","Book of fiction",198,TRUE
+"Statistical Decision Theory","Book of data_science",236,TRUE
+"Data Mining Handbook","Book of data_science",242,TRUE
+"New Machiavelli. The","Book of fiction",180,TRUE

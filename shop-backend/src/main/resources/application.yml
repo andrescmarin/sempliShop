@@ -1,0 +1,14 @@
+spring:
+  datasource:
+    driverClassName: com.mysql.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/semplishop?useSSL=false
+    username: root
+    password: sempli123
+  jpa:
+    hibernate.ddl-auto: update
+    generate-ddl: true
+    show-sql: true
+    properties.hibernate.dialect: org.hibernate.dialect.MySQL5Dialect
+  data: 
+    rest: 
+      base-path: /api
